@@ -1,3 +1,5 @@
+This *archived repository* is the Raspberry prototype support version of the [Drive Guardian](https://github.com/rohan-pandeyy/drive-guardian) project which was initialized as a hackathon project submission (Hackaccino 2024). By connecting a local machine with a raspberry over MQTT, one can get a mini robocar model prototype to move forward and apply breaks as the input video is processed by the model.
+
 # Drive Guardian 🚗: Automatic Breaking Assistant
 ![image](images/main.png)
 
